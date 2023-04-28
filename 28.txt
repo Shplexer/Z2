@@ -1,0 +1,3 @@
+Carnivore a a 500 a a
+Herbivore b b -200 b
+Omnivore c c 600 c

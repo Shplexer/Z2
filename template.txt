@@ -1,0 +1,4 @@
+Carnivore Wolf Meat 45 Forest Bite
+Herbivore Horse Grass 500 Plains
+Omnivore Raccoon Trash 10 Any
+Carnivore Cat Meat 5 Any Claw
